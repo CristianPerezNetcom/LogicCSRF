@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LoginTapToPhoneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="LoginTapToPhone" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.netcom.logintaptophone.LoginTapToPhoneApplication" />
+    <option name="VM_PARAMETERS" value="-Djavax.net.ssl.keyStore=C:\SSL-Netcom\final\server.p12 -Djavax.net.ssl.keyStorePassword=changeit -Djavax.net.ssl.trustStore=C:\SSL-Netcom\final\server-truststore.p12 -Djavax.net.ssl.trustStorePassword=changeit -Djavax.net.ssl.trustStoreProvider=SUN -Dhttps.protocols=TLSv1.2 -Djasypt.encryptor.password=9Cbb0ltLeN6oFtRh1K7PtAHWQkviV7Km" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
